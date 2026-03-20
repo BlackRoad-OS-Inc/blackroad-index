@@ -4,7 +4,7 @@
 
 # blackroad-index
 
-**BlackRoad Index — Gitea + GitHub code search, D1 FTS5, scheduled indexing.**
+**BlackRoad Index — RoadCode + GitHub code search, D1 FTS5, scheduled indexing.**
 
 [![BlackRoad OS](https://img.shields.io/badge/BlackRoad_OS-Pave_Tomorrow-FF2255?style=for-the-badge&labelColor=000000)](https://blackroad.io)
 [![License](https://img.shields.io/badge/License-Proprietary-FF6B2B?style=for-the-badge&labelColor=000000)](./LICENSE)
@@ -20,7 +20,7 @@
 
 ## Overview
 
-BlackRoad Index — Gitea + GitHub code search, D1 FTS5, scheduled indexing.
+BlackRoad Index — RoadCode + GitHub code search, D1 FTS5, scheduled indexing.
 
 ## License
 
